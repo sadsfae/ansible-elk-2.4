@@ -1,6 +1,6 @@
 ansible-elk
 ===========
-Ansible Playbook for setting up the ELK/EFK Stack and Filebeat client on remote hosts
+Ansible Playbook for setting up the 2.4 ELK/EFK Stack and Filebeat client on remote hosts
 
 ![ELK](/image/ansible-elk.png?raw=true)
 
