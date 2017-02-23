@@ -18,5 +18,5 @@ galaxy_info:
     - elasticsearch
     - logstash
     - kibana
-    - elk2.4
+    - elk24
 dependencies: []
